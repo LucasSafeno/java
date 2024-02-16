@@ -5,7 +5,7 @@ package academy.devdojo.maratonajava.introducao;
  * Pode utilizar <b>html</b>
  * ativar modo rendeizado : CTRL + ALT + Q
  */
-public class OlaDevDojo {
+public class Aula01OlaDevDojo {
     // Isso é um comentário de uma linha
     /*
      *   comentários de multiplcas linhas
