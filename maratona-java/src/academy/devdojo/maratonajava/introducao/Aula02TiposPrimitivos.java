@@ -13,10 +13,13 @@ public class Aula02TiposPrimitivos {
         boolean falso = false;
         char caractere = 'M'; // Pode colocar número referente a LETRA da tabela ASCII
 
+        // String não é um tipo primitivo
+        String nome = "Lucas"; // utilizar aspas duplas
 
         System.out.println("A idade é " + age + " anos ");
         System.out.println(falso);
         System.out.println("char " + caractere);
+        System.out.println("Oi, meu nome é " + nome);
 
     }
 }
