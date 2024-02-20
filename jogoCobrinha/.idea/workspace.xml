@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="591e5fd1-59c6-4ed5-894e-208e69b7d241" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/br.com.game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/br.com.game/Scenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jogoCobrinha.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/exercicio/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/exercicio/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/exercicio/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/05-aula/exercicio/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cursojavabasico_loiane/06-aula/Argumentos2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../especialistaJava_algaworks/modulo1/OlaMergulhador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../especialistaJava_algaworks/modulo1/OlaMergulhador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../especialistaJava_algaworks/modulo1/OlaMergulhador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../especialistaJava_algaworks/modulo1/OlaMergulhador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/maratona-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/maratona-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula05EstruturaCondicionais03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula05EstruturaCondicionais03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula05EstruturaCondicionais05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula05EstruturaCondicionais05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/Aula06EstruturaDeRepeticao03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/ula05EstruturaCondicionais06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maratona-java/src/academy/devdojo/maratonajava/introducao/ula05EstruturaCondicionais06.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cTHpHokiEadmS4YzjcPIpMeXAm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Game.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/safeno/java/maratona-java",
+    "onboarding.tips.debug.path": "/home/safeno/java/jogoCobrinha/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="591e5fd1-59c6-4ed5-894e-208e69b7d241" name="Changes" comment="" />
+      <created>1708128832357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708128832357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/br.com.game/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
