@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class ula05EstruturaCondicionais06 {
+public class Aula05EstruturaCondicionais06 {
     public static void main(String[] args) {
         // (Utilizado switch) Dados os valores de 1 a 7, imprima se dia util ou final de semana
         // consierando 1 como domingo
